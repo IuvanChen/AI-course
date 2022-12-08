@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pose Estimation
-author: [Richard Kuo]
+author: [Ivan Chen]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
